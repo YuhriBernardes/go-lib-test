@@ -1,8 +1,8 @@
-package go-lib-test
+package main
 
 import "fmt"
 
-func Hello (){
+func Hello() {
 	fmt.Println("Hello from lib")
 
 }
